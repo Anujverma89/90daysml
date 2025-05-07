@@ -1,0 +1,501 @@
+Medicine,Brand,Generic_Name,Form,Strength,Price_Brand,Price_Generic,Pharmacies
+Amlodipine,Norvasc,Amlodipine,Capsule,250mg,38.37,17.89,"1mg, Apollo, MedPlus"
+Metformin,Metlong,Metformin,Capsule,50mg,264.69,129.3,"NetMeds, Apollo, 1mg"
+Losartan,Losar,Losartan,Syrup,50mg,111.64,44.53,"MedPlus, 1mg, Apollo"
+Amoxicillin,Mox,Amoxicillin,Capsule,100mg,107.19,54.29,"Apollo, Pharmeasy, MedPlus"
+Amoxicillin,Almox,Amoxicillin,Syrup,500mg,127.7,74.95,Pharmeasy
+Metformin,Glycomet,Metformin,Syrup,250mg,156.72,48.51,"MedPlus, NetMeds"
+Paracetamol,P-500,Paracetamol,Capsule,10mg,146.88,33.77,"Pharmeasy, MedPlus, NetMeds"
+Omeprazole,Omez,Omeprazole,Capsule,50mg,67.32,34.74,"Apollo, MedPlus, Pharmeasy"
+Amlodipine,Amlopres,Amlodipine,Syrup,20mg,248.12,101.58,1mg
+Amlodipine,Amlopres,Amlodipine,Capsule,500mg,30.07,17.3,"NetMeds, Apollo"
+Losartan,Cozaar,Losartan,Tablet,100mg,85.61,36.11,"1mg, Apollo, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Syrup,100mg,234.62,126.42,Apollo
+Paracetamol,Calpol,Paracetamol,Syrup,50mg,69.05,33.44,MedPlus
+Ibuprofen,Advil,Ibuprofen,Tablet,500mg,47.74,27.51,1mg
+Simvastatin,Simlo,Simvastatin,Tablet,500mg,291.7,113.46,Pharmeasy
+Amoxicillin,Almox,Amoxicillin,Capsule,500mg,280.77,66.26,"Pharmeasy, 1mg"
+Ibuprofen,Advil,Ibuprofen,Tablet,20mg,295.74,78.72,NetMeds
+Paracetamol,Crocin,Paracetamol,Tablet,100mg,171.25,89.99,"MedPlus, NetMeds, 1mg"
+Ibuprofen,Advil,Ibuprofen,Capsule,100mg,164.91,54.12,"Apollo, 1mg"
+Metformin,Metlong,Metformin,Syrup,500mg,106.95,47.8,Apollo
+Amoxicillin,Amoxil,Amoxicillin,Syrup,100mg,70.8,36.48,"Apollo, MedPlus, NetMeds"
+Losartan,Losar,Losartan,Capsule,500mg,156.24,73.13,"Pharmeasy, Apollo"
+Ibuprofen,Brufen,Ibuprofen,Tablet,500mg,299.24,152.17,NetMeds
+Amlodipine,Amcard,Amlodipine,Syrup,100mg,269.95,149.2,"NetMeds, 1mg, Apollo"
+Simvastatin,Zocor,Simvastatin,Capsule,50mg,192.31,73.46,"MedPlus, Apollo"
+Paracetamol,Crocin,Paracetamol,Syrup,500mg,278.25,116.71,"NetMeds, Apollo"
+Amoxicillin,Almox,Amoxicillin,Syrup,50mg,230.85,115.98,"Apollo, NetMeds, Pharmeasy"
+Amoxicillin,Mox,Amoxicillin,Tablet,20mg,99.85,51.02,Pharmeasy
+Amlodipine,Norvasc,Amlodipine,Capsule,10mg,105.28,21.88,NetMeds
+Ibuprofen,Advil,Ibuprofen,Syrup,50mg,290.31,165.46,"NetMeds, 1mg"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,250mg,248.67,146.25,"1mg, MedPlus"
+Atorvastatin,Atorlip,Atorvastatin,Syrup,20mg,272.33,160.82,"MedPlus, Pharmeasy, NetMeds"
+Simvastatin,Simlo,Simvastatin,Syrup,500mg,70.63,23.85,"NetMeds, 1mg"
+Losartan,Repace,Losartan,Tablet,20mg,146.82,78.7,"Pharmeasy, MedPlus, Apollo"
+Atorvastatin,Tonact,Atorvastatin,Tablet,500mg,208.39,93.49,"Pharmeasy, Apollo, 1mg"
+Amlodipine,Amlopres,Amlodipine,Tablet,250mg,38.22,11.51,"NetMeds, Pharmeasy"
+Omeprazole,Omep,Omeprazole,Syrup,250mg,222.72,125.98,"NetMeds, MedPlus, Pharmeasy"
+Omeprazole,Omep,Omeprazole,Syrup,10mg,95.91,53.27,1mg
+Omeprazole,Omep,Omeprazole,Tablet,100mg,151.91,30.94,"Apollo, MedPlus, Pharmeasy"
+Losartan,Repace,Losartan,Capsule,20mg,223.01,57.63,"1mg, Pharmeasy, Apollo"
+Ibuprofen,Advil,Ibuprofen,Capsule,10mg,146.62,41.71,"NetMeds, 1mg"
+Amoxicillin,Mox,Amoxicillin,Syrup,50mg,34.39,18.0,"NetMeds, Apollo, Pharmeasy"
+Metformin,Glucophage,Metformin,Capsule,20mg,172.49,88.85,MedPlus
+Atorvastatin,Tonact,Atorvastatin,Capsule,500mg,291.51,159.31,1mg
+Paracetamol,Calpol,Paracetamol,Syrup,500mg,158.78,72.54,Pharmeasy
+Losartan,Losar,Losartan,Syrup,250mg,45.82,18.58,"NetMeds, MedPlus, Apollo"
+Metformin,Glycomet,Metformin,Capsule,10mg,178.66,59.09,"Apollo, NetMeds, 1mg"
+Simvastatin,Simlo,Simvastatin,Syrup,10mg,298.9,118.87,"Pharmeasy, Apollo, 1mg"
+Amoxicillin,Almox,Amoxicillin,Capsule,50mg,279.12,87.91,Pharmeasy
+Amlodipine,Norvasc,Amlodipine,Capsule,250mg,223.41,105.41,"Pharmeasy, Apollo"
+Losartan,Repace,Losartan,Tablet,10mg,61.5,26.85,"MedPlus, Pharmeasy, NetMeds"
+Metformin,Glycomet,Metformin,Capsule,500mg,175.84,75.75,MedPlus
+Atorvastatin,Lipitor,Atorvastatin,Tablet,100mg,35.41,16.01,"Pharmeasy, MedPlus, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Syrup,100mg,235.73,102.87,"1mg, MedPlus"
+Amoxicillin,Almox,Amoxicillin,Tablet,50mg,188.64,93.2,"Pharmeasy, MedPlus, NetMeds"
+Simvastatin,Simlo,Simvastatin,Tablet,10mg,238.36,75.67,"MedPlus, NetMeds"
+Simvastatin,Simvotin,Simvastatin,Tablet,250mg,35.99,8.75,"MedPlus, NetMeds, 1mg"
+Simvastatin,Simvotin,Simvastatin,Capsule,10mg,89.36,45.9,MedPlus
+Losartan,Losar,Losartan,Tablet,10mg,136.59,47.59,"MedPlus, Pharmeasy"
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,500mg,146.87,31.91,MedPlus
+Atorvastatin,Tonact,Atorvastatin,Tablet,10mg,46.49,12.21,MedPlus
+Paracetamol,Crocin,Paracetamol,Capsule,250mg,42.59,21.08,"NetMeds, Apollo, 1mg"
+Atorvastatin,Lipitor,Atorvastatin,Syrup,50mg,36.3,16.54,"1mg, MedPlus"
+Atorvastatin,Tonact,Atorvastatin,Capsule,50mg,120.31,71.06,Pharmeasy
+Ibuprofen,Ibugesic,Ibuprofen,Capsule,10mg,209.53,105.83,Apollo
+Amoxicillin,Amoxil,Amoxicillin,Capsule,10mg,182.64,55.12,"MedPlus, Apollo"
+Amoxicillin,Mox,Amoxicillin,Capsule,50mg,99.56,24.31,"NetMeds, Pharmeasy"
+Atorvastatin,Tonact,Atorvastatin,Tablet,20mg,122.99,44.05,"Apollo, 1mg"
+Losartan,Repace,Losartan,Capsule,20mg,224.98,58.33,Pharmeasy
+Omeprazole,Omep,Omeprazole,Syrup,500mg,99.27,52.93,"Apollo, Pharmeasy, NetMeds"
+Amoxicillin,Mox,Amoxicillin,Capsule,250mg,225.93,65.63,"1mg, NetMeds, Pharmeasy"
+Paracetamol,Crocin,Paracetamol,Tablet,250mg,234.93,73.73,"Apollo, 1mg"
+Metformin,Glucophage,Metformin,Tablet,20mg,118.72,28.9,Pharmeasy
+Metformin,Metlong,Metformin,Syrup,500mg,214.47,73.49,"Apollo, Pharmeasy, NetMeds"
+Levothyroxine,Thyronorm,Levothyroxine,Syrup,20mg,241.97,109.99,"Pharmeasy, MedPlus"
+Paracetamol,Crocin,Paracetamol,Tablet,250mg,294.03,125.67,"1mg, NetMeds, Pharmeasy"
+Losartan,Losar,Losartan,Capsule,10mg,218.08,62.15,"MedPlus, 1mg"
+Amlodipine,Amcard,Amlodipine,Syrup,10mg,136.73,72.43,Apollo
+Losartan,Losar,Losartan,Capsule,500mg,214.35,74.55,"Pharmeasy, MedPlus, 1mg"
+Metformin,Glucophage,Metformin,Capsule,500mg,58.94,29.8,NetMeds
+Atorvastatin,Lipitor,Atorvastatin,Capsule,250mg,224.11,104.06,NetMeds
+Omeprazole,Zol,Omeprazole,Tablet,50mg,122.36,37.65,1mg
+Simvastatin,Zocor,Simvastatin,Tablet,250mg,260.75,109.15,"Pharmeasy, 1mg"
+Metformin,Metlong,Metformin,Capsule,500mg,63.73,22.87,"MedPlus, 1mg"
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,50mg,283.45,150.75,"1mg, MedPlus"
+Atorvastatin,Lipitor,Atorvastatin,Tablet,500mg,165.05,77.16,"1mg, NetMeds, MedPlus"
+Simvastatin,Zocor,Simvastatin,Capsule,50mg,158.69,45.44,"NetMeds, MedPlus, 1mg"
+Ibuprofen,Brufen,Ibuprofen,Syrup,250mg,200.42,79.61,NetMeds
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,10mg,118.71,24.26,"1mg, Apollo, MedPlus"
+Paracetamol,Crocin,Paracetamol,Capsule,50mg,294.47,127.57,Apollo
+Levothyroxine,Thyrox,Levothyroxine,Tablet,500mg,158.27,84.59,"MedPlus, 1mg"
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,50mg,73.56,32.5,"Apollo, 1mg, MedPlus"
+Atorvastatin,Tonact,Atorvastatin,Tablet,250mg,291.88,117.76,1mg
+Ibuprofen,Brufen,Ibuprofen,Syrup,10mg,54.18,26.63,"MedPlus, NetMeds"
+Paracetamol,Crocin,Paracetamol,Capsule,100mg,265.85,89.29,MedPlus
+Paracetamol,Calpol,Paracetamol,Syrup,100mg,279.62,76.81,"1mg, Apollo"
+Omeprazole,Zol,Omeprazole,Capsule,10mg,98.68,40.87,"Pharmeasy, NetMeds"
+Paracetamol,Crocin,Paracetamol,Syrup,20mg,113.75,47.72,"1mg, MedPlus"
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,500mg,131.46,64.22,"Pharmeasy, NetMeds"
+Metformin,Glycomet,Metformin,Syrup,250mg,187.9,67.89,1mg
+Omeprazole,Omep,Omeprazole,Tablet,250mg,259.6,92.91,"Pharmeasy, NetMeds, 1mg"
+Losartan,Cozaar,Losartan,Syrup,100mg,266.34,134.7,1mg
+Amoxicillin,Almox,Amoxicillin,Syrup,10mg,205.81,67.15,Pharmeasy
+Paracetamol,P-500,Paracetamol,Syrup,20mg,250.85,124.02,Apollo
+Amoxicillin,Almox,Amoxicillin,Syrup,50mg,136.12,78.35,"MedPlus, Pharmeasy"
+Losartan,Losar,Losartan,Capsule,250mg,281.21,65.5,MedPlus
+Ibuprofen,Advil,Ibuprofen,Capsule,10mg,198.54,59.76,"Pharmeasy, Apollo"
+Amoxicillin,Almox,Amoxicillin,Capsule,20mg,47.67,17.34,"MedPlus, Pharmeasy, 1mg"
+Simvastatin,Simlo,Simvastatin,Syrup,20mg,196.35,41.23,"1mg, NetMeds"
+Ibuprofen,Brufen,Ibuprofen,Capsule,500mg,142.73,73.87,"Pharmeasy, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,500mg,134.99,31.78,"MedPlus, Apollo, NetMeds"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,500mg,43.86,17.1,MedPlus
+Levothyroxine,Eltroxin,Levothyroxine,Tablet,100mg,264.77,114.11,MedPlus
+Metformin,Glycomet,Metformin,Capsule,500mg,103.23,26.95,"Pharmeasy, Apollo, 1mg"
+Paracetamol,P-500,Paracetamol,Tablet,20mg,127.95,72.92,"Pharmeasy, NetMeds"
+Losartan,Repace,Losartan,Capsule,20mg,170.39,50.74,"NetMeds, Pharmeasy"
+Paracetamol,Crocin,Paracetamol,Tablet,10mg,242.03,62.07,"NetMeds, Apollo"
+Amlodipine,Norvasc,Amlodipine,Tablet,500mg,296.17,105.89,"1mg, Apollo"
+Atorvastatin,Lipitor,Atorvastatin,Tablet,50mg,268.72,150.16,NetMeds
+Amlodipine,Norvasc,Amlodipine,Syrup,50mg,255.1,143.73,"MedPlus, NetMeds"
+Omeprazole,Zol,Omeprazole,Tablet,50mg,255.31,97.7,"Pharmeasy, 1mg"
+Ibuprofen,Brufen,Ibuprofen,Tablet,20mg,51.2,14.29,"NetMeds, Pharmeasy"
+Omeprazole,Omep,Omeprazole,Capsule,10mg,262.97,128.32,1mg
+Ibuprofen,Ibugesic,Ibuprofen,Capsule,100mg,263.58,66.91,"NetMeds, MedPlus, Apollo"
+Simvastatin,Simvotin,Simvastatin,Syrup,250mg,79.68,45.66,Pharmeasy
+Paracetamol,Calpol,Paracetamol,Tablet,100mg,215.6,91.51,"Pharmeasy, NetMeds"
+Metformin,Glucophage,Metformin,Tablet,50mg,253.81,79.0,"Apollo, MedPlus"
+Simvastatin,Zocor,Simvastatin,Tablet,10mg,58.6,27.34,"1mg, NetMeds"
+Amoxicillin,Almox,Amoxicillin,Capsule,20mg,183.29,78.64,Apollo
+Amoxicillin,Amoxil,Amoxicillin,Capsule,20mg,86.53,49.33,Apollo
+Amoxicillin,Amoxil,Amoxicillin,Capsule,10mg,156.64,71.43,"Apollo, NetMeds, Pharmeasy"
+Atorvastatin,Lipitor,Atorvastatin,Capsule,250mg,102.37,40.73,"NetMeds, Pharmeasy, 1mg"
+Omeprazole,Omep,Omeprazole,Capsule,50mg,186.46,70.11,"Pharmeasy, NetMeds, Apollo"
+Amlodipine,Amlopres,Amlodipine,Capsule,20mg,151.43,65.57,"Pharmeasy, MedPlus"
+Paracetamol,Crocin,Paracetamol,Tablet,100mg,207.23,69.33,"NetMeds, Pharmeasy"
+Simvastatin,Simlo,Simvastatin,Capsule,500mg,43.59,13.92,"1mg, NetMeds, Apollo"
+Simvastatin,Zocor,Simvastatin,Capsule,10mg,249.87,82.7,"Apollo, 1mg, MedPlus"
+Losartan,Cozaar,Losartan,Syrup,50mg,233.23,72.24,"NetMeds, 1mg, MedPlus"
+Simvastatin,Simvotin,Simvastatin,Tablet,500mg,170.62,61.0,"1mg, MedPlus, Apollo"
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,250mg,110.47,30.18,"1mg, MedPlus, Pharmeasy"
+Ibuprofen,Brufen,Ibuprofen,Syrup,50mg,144.83,41.46,Apollo
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,50mg,282.94,62.45,1mg
+Metformin,Metlong,Metformin,Capsule,250mg,122.29,61.61,MedPlus
+Simvastatin,Simvotin,Simvastatin,Tablet,10mg,35.61,19.62,"1mg, MedPlus, NetMeds"
+Omeprazole,Zol,Omeprazole,Syrup,10mg,154.32,40.65,Pharmeasy
+Omeprazole,Omez,Omeprazole,Capsule,10mg,157.8,48.77,"NetMeds, Pharmeasy, MedPlus"
+Ibuprofen,Ibugesic,Ibuprofen,Syrup,500mg,160.25,62.92,"MedPlus, 1mg"
+Simvastatin,Simvotin,Simvastatin,Tablet,250mg,227.26,56.65,"NetMeds, 1mg"
+Losartan,Cozaar,Losartan,Capsule,500mg,178.41,57.36,Pharmeasy
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,10mg,152.17,33.93,"Apollo, NetMeds"
+Amoxicillin,Mox,Amoxicillin,Capsule,20mg,121.94,34.91,"1mg, NetMeds"
+Losartan,Losar,Losartan,Syrup,20mg,292.55,149.5,"1mg, NetMeds"
+Levothyroxine,Thyrox,Levothyroxine,Capsule,50mg,128.8,40.13,"NetMeds, Pharmeasy, MedPlus"
+Simvastatin,Simlo,Simvastatin,Syrup,500mg,281.4,100.42,"Apollo, 1mg, NetMeds"
+Amoxicillin,Amoxil,Amoxicillin,Capsule,50mg,158.67,67.3,"NetMeds, 1mg"
+Levothyroxine,Thyrox,Levothyroxine,Tablet,50mg,250.29,68.61,"1mg, Pharmeasy, Apollo"
+Paracetamol,Calpol,Paracetamol,Capsule,10mg,72.44,33.8,"MedPlus, Apollo, Pharmeasy"
+Paracetamol,P-500,Paracetamol,Capsule,250mg,180.47,106.41,"Pharmeasy, 1mg, MedPlus"
+Simvastatin,Simvotin,Simvastatin,Tablet,250mg,207.24,86.58,MedPlus
+Ibuprofen,Ibugesic,Ibuprofen,Capsule,10mg,224.91,76.1,"MedPlus, Pharmeasy"
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,50mg,167.44,67.04,"NetMeds, Apollo"
+Omeprazole,Omez,Omeprazole,Syrup,250mg,247.96,56.47,"Pharmeasy, NetMeds"
+Paracetamol,Calpol,Paracetamol,Capsule,100mg,31.39,8.16,1mg
+Omeprazole,Zol,Omeprazole,Tablet,10mg,272.12,73.08,1mg
+Paracetamol,P-500,Paracetamol,Tablet,50mg,198.33,102.83,"MedPlus, Pharmeasy, Apollo"
+Amoxicillin,Mox,Amoxicillin,Tablet,250mg,235.4,139.93,"Pharmeasy, 1mg"
+Paracetamol,Crocin,Paracetamol,Tablet,100mg,30.62,17.85,"MedPlus, Apollo, Pharmeasy"
+Atorvastatin,Lipitor,Atorvastatin,Syrup,50mg,40.91,13.93,"Apollo, Pharmeasy"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,500mg,267.53,100.46,"MedPlus, Apollo"
+Atorvastatin,Tonact,Atorvastatin,Syrup,100mg,267.13,147.53,"Pharmeasy, Apollo"
+Atorvastatin,Atorlip,Atorvastatin,Syrup,20mg,228.4,113.16,Pharmeasy
+Amlodipine,Amlopres,Amlodipine,Capsule,100mg,71.83,35.9,Pharmeasy
+Levothyroxine,Thyrox,Levothyroxine,Capsule,250mg,100.01,28.09,Pharmeasy
+Losartan,Repace,Losartan,Tablet,20mg,234.42,49.47,"1mg, NetMeds, Pharmeasy"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,50mg,196.24,77.38,MedPlus
+Simvastatin,Simlo,Simvastatin,Tablet,500mg,291.48,143.43,Apollo
+Omeprazole,Zol,Omeprazole,Syrup,100mg,221.74,104.45,"NetMeds, 1mg"
+Amlodipine,Norvasc,Amlodipine,Capsule,100mg,223.56,132.89,"Pharmeasy, Apollo, MedPlus"
+Amoxicillin,Mox,Amoxicillin,Capsule,10mg,193.37,78.48,"Pharmeasy, 1mg, NetMeds"
+Levothyroxine,Thyronorm,Levothyroxine,Syrup,20mg,40.9,15.71,"MedPlus, 1mg"
+Omeprazole,Zol,Omeprazole,Capsule,250mg,158.04,56.52,"NetMeds, 1mg, MedPlus"
+Atorvastatin,Tonact,Atorvastatin,Capsule,250mg,218.21,61.36,MedPlus
+Omeprazole,Omep,Omeprazole,Tablet,10mg,136.88,59.87,"Apollo, NetMeds"
+Losartan,Repace,Losartan,Capsule,50mg,58.15,28.24,"Pharmeasy, 1mg, NetMeds"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,10mg,248.2,51.76,"Pharmeasy, 1mg, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,20mg,36.46,9.64,"Apollo, Pharmeasy"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,10mg,55.96,32.6,1mg
+Amoxicillin,Amoxil,Amoxicillin,Capsule,100mg,39.36,19.9,"NetMeds, 1mg, Pharmeasy"
+Atorvastatin,Lipitor,Atorvastatin,Tablet,50mg,291.54,70.07,"Pharmeasy, Apollo, MedPlus"
+Amlodipine,Norvasc,Amlodipine,Tablet,100mg,116.85,47.04,"Apollo, 1mg"
+Metformin,Glucophage,Metformin,Tablet,100mg,122.62,72.95,NetMeds
+Amlodipine,Amlopres,Amlodipine,Syrup,20mg,263.47,140.96,NetMeds
+Amoxicillin,Amoxil,Amoxicillin,Syrup,20mg,158.32,33.62,"NetMeds, MedPlus"
+Amlodipine,Amcard,Amlodipine,Capsule,250mg,166.63,38.41,"NetMeds, Pharmeasy, Apollo"
+Omeprazole,Zol,Omeprazole,Capsule,500mg,31.42,16.03,NetMeds
+Amlodipine,Amlopres,Amlodipine,Syrup,250mg,164.88,82.13,"Pharmeasy, Apollo, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,20mg,97.74,35.71,NetMeds
+Amoxicillin,Almox,Amoxicillin,Capsule,250mg,241.1,112.81,"Apollo, Pharmeasy, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,100mg,50.87,17.03,"MedPlus, Apollo, 1mg"
+Atorvastatin,Tonact,Atorvastatin,Capsule,20mg,255.21,83.07,Apollo
+Losartan,Cozaar,Losartan,Tablet,250mg,173.39,60.41,"NetMeds, 1mg, MedPlus"
+Simvastatin,Simvotin,Simvastatin,Syrup,250mg,248.28,131.77,"Apollo, 1mg, MedPlus"
+Levothyroxine,Thyrox,Levothyroxine,Syrup,250mg,115.48,26.27,"Apollo, MedPlus"
+Ibuprofen,Brufen,Ibuprofen,Syrup,500mg,165.27,40.11,Pharmeasy
+Levothyroxine,Thyrox,Levothyroxine,Capsule,500mg,118.71,31.83,MedPlus
+Amoxicillin,Mox,Amoxicillin,Tablet,20mg,101.1,40.49,"MedPlus, Pharmeasy"
+Atorvastatin,Lipitor,Atorvastatin,Syrup,500mg,137.72,74.16,MedPlus
+Amlodipine,Amcard,Amlodipine,Tablet,20mg,147.53,86.85,"Pharmeasy, 1mg, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,500mg,226.31,102.58,"Apollo, MedPlus, Pharmeasy"
+Ibuprofen,Advil,Ibuprofen,Syrup,100mg,88.73,21.72,"MedPlus, Apollo, 1mg"
+Levothyroxine,Thyrox,Levothyroxine,Syrup,250mg,243.14,100.6,"MedPlus, NetMeds"
+Simvastatin,Simlo,Simvastatin,Syrup,100mg,43.79,19.94,"NetMeds, 1mg, Pharmeasy"
+Losartan,Losar,Losartan,Syrup,10mg,97.18,47.13,MedPlus
+Ibuprofen,Advil,Ibuprofen,Syrup,10mg,74.53,22.35,"Pharmeasy, Apollo"
+Levothyroxine,Thyrox,Levothyroxine,Capsule,20mg,32.46,17.47,"1mg, MedPlus"
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,100mg,132.62,72.63,Apollo
+Amlodipine,Norvasc,Amlodipine,Capsule,50mg,43.18,24.77,MedPlus
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,100mg,234.29,79.35,"MedPlus, Apollo, Pharmeasy"
+Simvastatin,Simlo,Simvastatin,Syrup,100mg,105.38,27.68,"NetMeds, 1mg"
+Metformin,Glycomet,Metformin,Capsule,250mg,39.34,17.64,NetMeds
+Simvastatin,Simlo,Simvastatin,Tablet,250mg,171.15,60.13,"Apollo, Pharmeasy"
+Simvastatin,Simvotin,Simvastatin,Tablet,50mg,136.22,37.74,"Pharmeasy, Apollo, MedPlus"
+Metformin,Metlong,Metformin,Syrup,50mg,123.96,60.27,"Pharmeasy, Apollo"
+Paracetamol,Calpol,Paracetamol,Syrup,20mg,261.29,60.04,"Apollo, MedPlus, Pharmeasy"
+Paracetamol,Calpol,Paracetamol,Capsule,250mg,179.67,84.83,"MedPlus, 1mg, NetMeds"
+Levothyroxine,Eltroxin,Levothyroxine,Tablet,500mg,54.96,25.74,"1mg, NetMeds, Apollo"
+Metformin,Metlong,Metformin,Capsule,10mg,272.85,78.49,"MedPlus, Apollo"
+Paracetamol,Crocin,Paracetamol,Syrup,500mg,280.01,161.79,NetMeds
+Losartan,Repace,Losartan,Tablet,10mg,49.26,18.9,"Pharmeasy, 1mg"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,20mg,194.66,40.49,"MedPlus, 1mg"
+Amlodipine,Amcard,Amlodipine,Capsule,20mg,232.92,106.88,1mg
+Amlodipine,Norvasc,Amlodipine,Syrup,100mg,280.0,97.98,MedPlus
+Simvastatin,Simlo,Simvastatin,Capsule,100mg,100.55,42.53,"NetMeds, Pharmeasy"
+Amlodipine,Amlopres,Amlodipine,Tablet,20mg,209.52,94.85,1mg
+Amlodipine,Amlopres,Amlodipine,Capsule,250mg,148.73,54.51,"Pharmeasy, NetMeds, MedPlus"
+Ibuprofen,Advil,Ibuprofen,Syrup,100mg,136.13,27.44,Pharmeasy
+Amlodipine,Amcard,Amlodipine,Syrup,50mg,293.03,107.34,"MedPlus, 1mg, Apollo"
+Omeprazole,Omez,Omeprazole,Capsule,100mg,51.91,23.08,"1mg, MedPlus, Pharmeasy"
+Paracetamol,P-500,Paracetamol,Syrup,500mg,120.98,38.46,"NetMeds, 1mg, Apollo"
+Atorvastatin,Lipitor,Atorvastatin,Syrup,50mg,140.3,68.05,NetMeds
+Omeprazole,Omep,Omeprazole,Tablet,100mg,147.66,75.11,NetMeds
+Atorvastatin,Lipitor,Atorvastatin,Tablet,100mg,234.35,48.34,NetMeds
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,500mg,216.32,60.16,"1mg, Apollo, MedPlus"
+Ibuprofen,Brufen,Ibuprofen,Syrup,500mg,108.63,44.31,"Pharmeasy, 1mg"
+Losartan,Repace,Losartan,Syrup,250mg,35.22,20.89,"NetMeds, Pharmeasy, MedPlus"
+Ibuprofen,Brufen,Ibuprofen,Tablet,100mg,99.71,36.76,"1mg, NetMeds"
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,50mg,292.03,151.7,"1mg, Pharmeasy"
+Metformin,Glucophage,Metformin,Capsule,500mg,274.45,132.54,"NetMeds, MedPlus, Pharmeasy"
+Losartan,Cozaar,Losartan,Capsule,100mg,241.57,132.14,"MedPlus, 1mg"
+Amoxicillin,Almox,Amoxicillin,Tablet,10mg,146.81,41.08,"MedPlus, Apollo, 1mg"
+Atorvastatin,Tonact,Atorvastatin,Syrup,100mg,46.3,27.29,"NetMeds, Apollo, 1mg"
+Amoxicillin,Almox,Amoxicillin,Tablet,20mg,279.82,127.77,Apollo
+Omeprazole,Omez,Omeprazole,Capsule,100mg,146.93,65.81,"MedPlus, Apollo"
+Omeprazole,Zol,Omeprazole,Tablet,10mg,148.62,55.75,MedPlus
+Simvastatin,Simvotin,Simvastatin,Capsule,10mg,167.31,58.71,Apollo
+Metformin,Glucophage,Metformin,Syrup,20mg,289.34,143.29,"Pharmeasy, 1mg"
+Losartan,Losar,Losartan,Capsule,20mg,205.58,70.07,"Pharmeasy, MedPlus"
+Omeprazole,Zol,Omeprazole,Capsule,500mg,151.91,38.55,"MedPlus, NetMeds"
+Metformin,Glucophage,Metformin,Capsule,50mg,295.99,132.77,"MedPlus, 1mg"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,250mg,193.41,86.17,Apollo
+Paracetamol,Crocin,Paracetamol,Capsule,20mg,133.49,27.25,1mg
+Omeprazole,Zol,Omeprazole,Syrup,250mg,151.72,84.59,Pharmeasy
+Amlodipine,Amcard,Amlodipine,Tablet,250mg,250.82,109.38,"Pharmeasy, MedPlus, NetMeds"
+Paracetamol,Calpol,Paracetamol,Tablet,100mg,72.16,27.97,"Pharmeasy, MedPlus, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Syrup,10mg,188.49,108.49,"MedPlus, Pharmeasy, 1mg"
+Losartan,Losar,Losartan,Tablet,20mg,213.06,83.01,NetMeds
+Metformin,Metlong,Metformin,Capsule,250mg,36.88,17.39,"NetMeds, 1mg"
+Paracetamol,P-500,Paracetamol,Capsule,10mg,152.92,55.14,1mg
+Metformin,Metlong,Metformin,Capsule,50mg,250.39,88.99,1mg
+Metformin,Metlong,Metformin,Tablet,500mg,132.29,58.71,"MedPlus, Pharmeasy"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,100mg,97.84,50.39,"NetMeds, Pharmeasy, MedPlus"
+Amlodipine,Norvasc,Amlodipine,Capsule,50mg,288.22,124.67,NetMeds
+Losartan,Losar,Losartan,Syrup,100mg,156.24,51.16,"Pharmeasy, NetMeds, 1mg"
+Amlodipine,Norvasc,Amlodipine,Tablet,20mg,298.24,153.87,"NetMeds, MedPlus"
+Amlodipine,Norvasc,Amlodipine,Syrup,50mg,276.88,125.24,"NetMeds, Apollo"
+Atorvastatin,Tonact,Atorvastatin,Tablet,20mg,267.12,98.01,"1mg, Pharmeasy, NetMeds"
+Amlodipine,Amlopres,Amlodipine,Capsule,500mg,125.01,28.17,MedPlus
+Metformin,Glucophage,Metformin,Capsule,20mg,231.3,51.05,MedPlus
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,250mg,282.32,132.07,"MedPlus, NetMeds"
+Omeprazole,Zol,Omeprazole,Syrup,500mg,140.55,63.06,"Apollo, Pharmeasy, MedPlus"
+Omeprazole,Omep,Omeprazole,Syrup,500mg,289.8,92.69,"MedPlus, NetMeds"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,500mg,128.08,76.65,"MedPlus, Apollo, NetMeds"
+Metformin,Glucophage,Metformin,Tablet,10mg,115.84,32.16,Pharmeasy
+Amlodipine,Amcard,Amlodipine,Syrup,10mg,132.11,69.42,"1mg, MedPlus, NetMeds"
+Amlodipine,Amcard,Amlodipine,Tablet,50mg,286.38,165.55,MedPlus
+Atorvastatin,Atorlip,Atorvastatin,Tablet,20mg,279.72,152.91,"MedPlus, 1mg"
+Amlodipine,Amlopres,Amlodipine,Tablet,100mg,42.62,21.41,1mg
+Omeprazole,Omep,Omeprazole,Syrup,10mg,188.68,54.49,Apollo
+Simvastatin,Simvotin,Simvastatin,Tablet,250mg,34.81,13.55,"NetMeds, Pharmeasy, MedPlus"
+Losartan,Cozaar,Losartan,Tablet,100mg,224.73,111.35,1mg
+Amlodipine,Amlopres,Amlodipine,Capsule,500mg,144.48,61.05,NetMeds
+Amoxicillin,Almox,Amoxicillin,Capsule,250mg,106.19,45.4,NetMeds
+Atorvastatin,Atorlip,Atorvastatin,Syrup,10mg,135.01,33.84,"Apollo, MedPlus, NetMeds"
+Simvastatin,Simlo,Simvastatin,Syrup,50mg,185.66,57.89,"MedPlus, Pharmeasy, NetMeds"
+Paracetamol,Crocin,Paracetamol,Capsule,250mg,49.02,14.44,"1mg, Apollo"
+Amlodipine,Amlopres,Amlodipine,Syrup,50mg,290.91,137.86,Pharmeasy
+Omeprazole,Zol,Omeprazole,Capsule,500mg,298.69,65.09,"Apollo, 1mg"
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,100mg,106.23,34.36,"Apollo, Pharmeasy, 1mg"
+Ibuprofen,Advil,Ibuprofen,Capsule,20mg,193.84,78.44,"MedPlus, 1mg, Apollo"
+Ibuprofen,Brufen,Ibuprofen,Tablet,100mg,96.53,38.22,Pharmeasy
+Metformin,Glucophage,Metformin,Tablet,10mg,234.11,119.25,"1mg, NetMeds, Pharmeasy"
+Metformin,Metlong,Metformin,Capsule,50mg,48.91,24.69,Pharmeasy
+Atorvastatin,Tonact,Atorvastatin,Tablet,50mg,290.23,98.23,1mg
+Omeprazole,Omep,Omeprazole,Tablet,50mg,150.98,63.71,Pharmeasy
+Amoxicillin,Amoxil,Amoxicillin,Capsule,100mg,52.95,24.17,NetMeds
+Levothyroxine,Eltroxin,Levothyroxine,Tablet,250mg,114.75,54.88,"1mg, MedPlus"
+Metformin,Glucophage,Metformin,Tablet,500mg,174.67,42.3,Pharmeasy
+Omeprazole,Omep,Omeprazole,Capsule,50mg,80.65,32.24,"1mg, Pharmeasy, NetMeds"
+Losartan,Repace,Losartan,Capsule,10mg,150.83,64.68,"1mg, MedPlus"
+Paracetamol,P-500,Paracetamol,Tablet,250mg,136.36,62.8,1mg
+Metformin,Glucophage,Metformin,Tablet,100mg,256.84,136.54,MedPlus
+Levothyroxine,Thyrox,Levothyroxine,Capsule,20mg,138.99,43.63,Apollo
+Paracetamol,Calpol,Paracetamol,Tablet,100mg,207.44,86.25,1mg
+Amoxicillin,Mox,Amoxicillin,Syrup,100mg,80.7,35.52,NetMeds
+Amlodipine,Norvasc,Amlodipine,Syrup,100mg,186.75,79.08,"NetMeds, Apollo"
+Omeprazole,Zol,Omeprazole,Capsule,50mg,207.13,106.82,"Pharmeasy, NetMeds"
+Paracetamol,Calpol,Paracetamol,Capsule,250mg,270.92,56.43,Apollo
+Metformin,Metlong,Metformin,Syrup,20mg,207.02,85.32,Pharmeasy
+Levothyroxine,Thyrox,Levothyroxine,Tablet,20mg,75.75,43.16,1mg
+Metformin,Glycomet,Metformin,Syrup,100mg,213.86,102.55,"Pharmeasy, NetMeds, 1mg"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,20mg,32.17,19.23,"1mg, MedPlus"
+Amoxicillin,Mox,Amoxicillin,Capsule,500mg,222.78,93.15,MedPlus
+Metformin,Glycomet,Metformin,Capsule,50mg,209.26,42.83,"1mg, Apollo"
+Metformin,Glycomet,Metformin,Tablet,20mg,175.39,95.58,NetMeds
+Ibuprofen,Brufen,Ibuprofen,Capsule,20mg,51.58,25.1,"Apollo, Pharmeasy, MedPlus"
+Metformin,Glucophage,Metformin,Syrup,500mg,297.06,108.02,1mg
+Amoxicillin,Almox,Amoxicillin,Tablet,250mg,117.2,54.78,"MedPlus, 1mg"
+Losartan,Repace,Losartan,Syrup,50mg,143.01,56.5,"Apollo, Pharmeasy, MedPlus"
+Omeprazole,Zol,Omeprazole,Tablet,500mg,251.94,110.07,1mg
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,50mg,222.42,71.24,"Apollo, MedPlus"
+Omeprazole,Omez,Omeprazole,Syrup,20mg,122.64,53.04,"Pharmeasy, 1mg"
+Amlodipine,Norvasc,Amlodipine,Capsule,500mg,33.3,13.24,"Pharmeasy, 1mg, NetMeds"
+Levothyroxine,Thyronorm,Levothyroxine,Syrup,50mg,265.88,118.17,"NetMeds, MedPlus, Pharmeasy"
+Simvastatin,Simvotin,Simvastatin,Tablet,500mg,76.38,28.06,"1mg, Pharmeasy"
+Paracetamol,P-500,Paracetamol,Tablet,50mg,134.45,73.03,"Apollo, Pharmeasy, 1mg"
+Ibuprofen,Ibugesic,Ibuprofen,Syrup,100mg,41.93,15.28,"1mg, NetMeds"
+Paracetamol,P-500,Paracetamol,Syrup,100mg,35.73,7.85,"MedPlus, Apollo"
+Atorvastatin,Tonact,Atorvastatin,Capsule,500mg,259.9,151.55,"MedPlus, Pharmeasy, Apollo"
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,250mg,247.8,53.63,NetMeds
+Simvastatin,Simvotin,Simvastatin,Capsule,500mg,59.29,35.09,1mg
+Metformin,Glucophage,Metformin,Capsule,250mg,123.61,29.55,MedPlus
+Paracetamol,Calpol,Paracetamol,Syrup,50mg,149.75,84.45,MedPlus
+Omeprazole,Omep,Omeprazole,Syrup,10mg,34.53,19.93,Apollo
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,500mg,225.83,79.21,"MedPlus, 1mg"
+Amoxicillin,Almox,Amoxicillin,Tablet,10mg,135.32,74.44,"NetMeds, 1mg, Pharmeasy"
+Omeprazole,Omep,Omeprazole,Tablet,20mg,94.29,29.19,"MedPlus, Apollo"
+Amlodipine,Amlopres,Amlodipine,Tablet,20mg,66.58,20.84,"Apollo, Pharmeasy"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,20mg,146.2,30.62,NetMeds
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,10mg,194.57,39.96,"MedPlus, NetMeds"
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,10mg,166.92,86.41,"1mg, NetMeds, Apollo"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,10mg,170.58,97.94,"NetMeds, 1mg"
+Simvastatin,Simlo,Simvastatin,Syrup,50mg,38.07,10.42,"Apollo, 1mg"
+Omeprazole,Omez,Omeprazole,Tablet,50mg,34.8,14.14,Apollo
+Atorvastatin,Tonact,Atorvastatin,Syrup,20mg,145.23,85.04,MedPlus
+Simvastatin,Zocor,Simvastatin,Syrup,100mg,41.34,22.14,"Apollo, 1mg"
+Ibuprofen,Brufen,Ibuprofen,Tablet,10mg,185.38,53.01,"Pharmeasy, NetMeds, MedPlus"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,250mg,101.23,39.31,"1mg, Pharmeasy"
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,50mg,261.97,107.17,"1mg, NetMeds"
+Losartan,Repace,Losartan,Tablet,10mg,74.76,29.46,Apollo
+Omeprazole,Omep,Omeprazole,Tablet,20mg,154.4,48.99,"1mg, MedPlus, Apollo"
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,500mg,134.34,72.32,Pharmeasy
+Atorvastatin,Lipitor,Atorvastatin,Syrup,20mg,277.33,153.64,"MedPlus, Apollo"
+Losartan,Cozaar,Losartan,Tablet,10mg,98.16,25.17,NetMeds
+Atorvastatin,Atorlip,Atorvastatin,Syrup,20mg,43.31,19.43,"Apollo, Pharmeasy"
+Losartan,Repace,Losartan,Capsule,50mg,71.97,39.5,"MedPlus, Apollo"
+Paracetamol,Calpol,Paracetamol,Syrup,10mg,77.37,21.78,"Pharmeasy, Apollo, 1mg"
+Ibuprofen,Brufen,Ibuprofen,Syrup,100mg,167.43,49.67,"NetMeds, Pharmeasy"
+Levothyroxine,Eltroxin,Levothyroxine,Tablet,50mg,137.26,76.48,"MedPlus, Apollo"
+Metformin,Glycomet,Metformin,Tablet,500mg,111.69,25.81,Pharmeasy
+Amoxicillin,Almox,Amoxicillin,Tablet,250mg,43.23,17.6,"NetMeds, Apollo"
+Levothyroxine,Thyrox,Levothyroxine,Capsule,50mg,99.74,55.04,"NetMeds, Pharmeasy"
+Simvastatin,Simlo,Simvastatin,Capsule,10mg,296.42,165.58,"Pharmeasy, Apollo"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,50mg,47.66,22.17,"MedPlus, Apollo"
+Losartan,Losar,Losartan,Tablet,50mg,32.83,11.28,"MedPlus, Apollo"
+Omeprazole,Zol,Omeprazole,Tablet,100mg,42.78,11.03,"NetMeds, MedPlus"
+Paracetamol,Crocin,Paracetamol,Syrup,500mg,226.93,62.17,"NetMeds, Pharmeasy"
+Omeprazole,Omez,Omeprazole,Capsule,100mg,160.25,61.07,"NetMeds, 1mg"
+Atorvastatin,Tonact,Atorvastatin,Tablet,50mg,44.16,24.96,"Apollo, NetMeds"
+Atorvastatin,Lipitor,Atorvastatin,Capsule,10mg,245.42,59.96,Apollo
+Amlodipine,Amlopres,Amlodipine,Tablet,100mg,188.9,58.96,"1mg, MedPlus"
+Levothyroxine,Thyrox,Levothyroxine,Syrup,100mg,262.07,129.06,"Apollo, MedPlus"
+Metformin,Glucophage,Metformin,Syrup,10mg,149.51,83.09,"Apollo, MedPlus"
+Metformin,Glycomet,Metformin,Capsule,250mg,250.1,127.51,"Apollo, 1mg"
+Amlodipine,Amlopres,Amlodipine,Capsule,50mg,139.51,34.63,Apollo
+Paracetamol,Crocin,Paracetamol,Capsule,20mg,164.68,96.23,NetMeds
+Metformin,Glucophage,Metformin,Syrup,100mg,194.35,44.98,"Apollo, MedPlus, 1mg"
+Amoxicillin,Amoxil,Amoxicillin,Capsule,250mg,30.33,7.46,MedPlus
+Metformin,Glucophage,Metformin,Capsule,100mg,129.54,57.11,Apollo
+Losartan,Repace,Losartan,Syrup,20mg,107.0,26.42,Pharmeasy
+Omeprazole,Zol,Omeprazole,Tablet,100mg,125.0,61.74,"Pharmeasy, MedPlus, NetMeds"
+Simvastatin,Zocor,Simvastatin,Capsule,500mg,272.54,148.6,Apollo
+Losartan,Repace,Losartan,Tablet,20mg,272.56,146.59,"MedPlus, 1mg, NetMeds"
+Losartan,Losar,Losartan,Capsule,20mg,246.9,103.53,Apollo
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,50mg,81.36,33.44,"1mg, MedPlus"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,500mg,33.29,18.37,"Pharmeasy, NetMeds, 1mg"
+Omeprazole,Omep,Omeprazole,Syrup,100mg,292.29,76.54,"Pharmeasy, 1mg"
+Omeprazole,Omep,Omeprazole,Tablet,10mg,264.04,79.16,1mg
+Losartan,Losar,Losartan,Capsule,10mg,270.18,70.51,"Apollo, MedPlus"
+Simvastatin,Simvotin,Simvastatin,Tablet,100mg,244.64,78.12,"Apollo, Pharmeasy, MedPlus"
+Simvastatin,Simlo,Simvastatin,Tablet,20mg,201.7,81.02,Apollo
+Ibuprofen,Brufen,Ibuprofen,Capsule,500mg,104.2,60.08,"Apollo, NetMeds, MedPlus"
+Metformin,Metlong,Metformin,Tablet,100mg,211.13,80.52,1mg
+Levothyroxine,Thyronorm,Levothyroxine,Syrup,50mg,169.19,58.78,"MedPlus, NetMeds, Pharmeasy"
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,50mg,131.1,67.99,"NetMeds, MedPlus"
+Metformin,Glucophage,Metformin,Syrup,10mg,198.3,63.3,"Apollo, 1mg, MedPlus"
+Omeprazole,Omep,Omeprazole,Tablet,100mg,249.18,102.04,"Apollo, MedPlus, NetMeds"
+Amoxicillin,Mox,Amoxicillin,Tablet,100mg,148.57,54.11,NetMeds
+Omeprazole,Omep,Omeprazole,Capsule,250mg,47.3,24.36,1mg
+Metformin,Glycomet,Metformin,Syrup,100mg,298.31,66.99,"1mg, NetMeds, Apollo"
+Levothyroxine,Thyronorm,Levothyroxine,Tablet,10mg,237.88,141.89,NetMeds
+Paracetamol,P-500,Paracetamol,Tablet,250mg,292.85,170.38,"MedPlus, 1mg, Pharmeasy"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,20mg,96.27,32.77,"1mg, NetMeds"
+Metformin,Glucophage,Metformin,Syrup,100mg,72.33,30.67,"NetMeds, MedPlus, 1mg"
+Amlodipine,Norvasc,Amlodipine,Tablet,20mg,73.1,23.69,MedPlus
+Ibuprofen,Brufen,Ibuprofen,Capsule,250mg,284.68,61.91,MedPlus
+Losartan,Repace,Losartan,Capsule,20mg,253.69,127.76,1mg
+Losartan,Cozaar,Losartan,Tablet,500mg,159.33,93.52,"Apollo, NetMeds"
+Amlodipine,Norvasc,Amlodipine,Capsule,100mg,289.98,98.84,"Pharmeasy, NetMeds"
+Simvastatin,Zocor,Simvastatin,Capsule,10mg,246.55,85.21,"NetMeds, Pharmeasy"
+Atorvastatin,Tonact,Atorvastatin,Syrup,500mg,113.84,46.5,"1mg, MedPlus"
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,500mg,76.18,38.53,"Apollo, NetMeds"
+Amoxicillin,Amoxil,Amoxicillin,Tablet,50mg,298.45,154.43,"1mg, Apollo"
+Levothyroxine,Thyronorm,Levothyroxine,Capsule,10mg,237.34,66.38,"Apollo, Pharmeasy, 1mg"
+Amoxicillin,Mox,Amoxicillin,Tablet,250mg,47.24,21.81,"1mg, MedPlus"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,50mg,128.91,27.35,"Apollo, NetMeds, 1mg"
+Ibuprofen,Advil,Ibuprofen,Capsule,100mg,66.23,30.6,"NetMeds, Apollo"
+Metformin,Metlong,Metformin,Tablet,500mg,269.35,129.46,MedPlus
+Simvastatin,Zocor,Simvastatin,Syrup,20mg,258.56,150.16,Apollo
+Simvastatin,Simvotin,Simvastatin,Syrup,250mg,111.7,64.05,1mg
+Paracetamol,P-500,Paracetamol,Capsule,250mg,172.55,92.61,"MedPlus, Apollo"
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,10mg,202.03,75.54,"Apollo, 1mg"
+Losartan,Cozaar,Losartan,Capsule,250mg,168.43,67.5,"MedPlus, Pharmeasy, NetMeds"
+Metformin,Glycomet,Metformin,Syrup,100mg,226.76,115.66,"MedPlus, NetMeds"
+Paracetamol,P-500,Paracetamol,Tablet,50mg,31.4,6.52,"Pharmeasy, 1mg, NetMeds"
+Simvastatin,Zocor,Simvastatin,Capsule,10mg,297.14,126.34,"NetMeds, MedPlus, Pharmeasy"
+Atorvastatin,Atorlip,Atorvastatin,Capsule,100mg,78.76,17.3,"NetMeds, MedPlus"
+Amlodipine,Amlopres,Amlodipine,Tablet,20mg,93.13,54.61,"1mg, Apollo, Pharmeasy"
+Ibuprofen,Ibugesic,Ibuprofen,Tablet,100mg,263.49,145.12,"Pharmeasy, 1mg"
+Omeprazole,Zol,Omeprazole,Tablet,50mg,123.87,53.32,"NetMeds, Apollo, 1mg"
+Amlodipine,Amlopres,Amlodipine,Syrup,20mg,173.43,87.09,"1mg, Apollo"
+Paracetamol,P-500,Paracetamol,Syrup,20mg,217.42,86.37,"Pharmeasy, Apollo"
+Simvastatin,Simvotin,Simvastatin,Syrup,100mg,173.73,48.9,"NetMeds, Apollo, MedPlus"
+Omeprazole,Omez,Omeprazole,Syrup,20mg,226.56,68.25,"NetMeds, Apollo"
+Amoxicillin,Amoxil,Amoxicillin,Tablet,20mg,285.09,59.3,"1mg, Apollo, NetMeds"
+Amlodipine,Norvasc,Amlodipine,Capsule,250mg,150.17,65.29,"Apollo, NetMeds, Pharmeasy"
+Simvastatin,Simvotin,Simvastatin,Syrup,100mg,113.46,28.85,"Apollo, 1mg, MedPlus"
+Paracetamol,Crocin,Paracetamol,Capsule,20mg,199.88,117.67,"MedPlus, Pharmeasy, Apollo"
+Losartan,Losar,Losartan,Tablet,250mg,78.08,32.07,"NetMeds, MedPlus"
+Losartan,Repace,Losartan,Tablet,500mg,247.77,133.85,MedPlus
+Atorvastatin,Atorlip,Atorvastatin,Tablet,10mg,237.52,101.33,"Apollo, Pharmeasy"
+Metformin,Glucophage,Metformin,Tablet,500mg,85.65,40.95,"Apollo, NetMeds, 1mg"
+Omeprazole,Omez,Omeprazole,Syrup,50mg,160.57,77.97,Apollo
+Losartan,Repace,Losartan,Capsule,10mg,85.73,28.05,"Pharmeasy, Apollo, 1mg"
+Losartan,Repace,Losartan,Syrup,100mg,272.32,90.65,"NetMeds, MedPlus, Apollo"
+Amoxicillin,Mox,Amoxicillin,Tablet,100mg,122.93,60.37,"NetMeds, MedPlus, Pharmeasy"
+Paracetamol,P-500,Paracetamol,Syrup,500mg,182.61,59.71,"Apollo, 1mg, NetMeds"
+Paracetamol,P-500,Paracetamol,Tablet,100mg,267.07,159.1,"MedPlus, NetMeds"
+Simvastatin,Simlo,Simvastatin,Syrup,10mg,165.68,64.49,"1mg, MedPlus"
+Paracetamol,P-500,Paracetamol,Tablet,500mg,200.26,84.69,Pharmeasy
+Atorvastatin,Atorlip,Atorvastatin,Syrup,250mg,296.12,62.27,"1mg, NetMeds"
+Amoxicillin,Almox,Amoxicillin,Tablet,10mg,231.74,59.3,1mg
+Paracetamol,Crocin,Paracetamol,Capsule,250mg,251.58,144.71,Pharmeasy
+Atorvastatin,Lipitor,Atorvastatin,Capsule,250mg,148.97,72.61,"NetMeds, Apollo, MedPlus"
+Amoxicillin,Almox,Amoxicillin,Syrup,250mg,117.65,67.6,"NetMeds, MedPlus"
+Losartan,Losar,Losartan,Syrup,20mg,122.54,48.94,MedPlus
+Amoxicillin,Amoxil,Amoxicillin,Syrup,250mg,70.23,27.4,"Pharmeasy, NetMeds, Apollo"
+Atorvastatin,Tonact,Atorvastatin,Syrup,100mg,144.57,79.03,"1mg, Apollo"
+Omeprazole,Omep,Omeprazole,Tablet,10mg,178.1,40.22,Pharmeasy
+Levothyroxine,Eltroxin,Levothyroxine,Tablet,50mg,274.62,154.68,MedPlus
+Atorvastatin,Tonact,Atorvastatin,Capsule,500mg,283.86,146.14,Pharmeasy
+Amoxicillin,Almox,Amoxicillin,Syrup,500mg,119.25,71.14,"MedPlus, Pharmeasy, NetMeds"
+Paracetamol,P-500,Paracetamol,Tablet,100mg,243.02,90.55,"NetMeds, Pharmeasy, Apollo"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,250mg,222.61,51.09,"MedPlus, Pharmeasy, NetMeds"
+Metformin,Glucophage,Metformin,Syrup,10mg,172.08,86.49,"NetMeds, MedPlus"
+Atorvastatin,Tonact,Atorvastatin,Tablet,250mg,34.52,16.86,"1mg, MedPlus"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,20mg,84.4,25.14,"Pharmeasy, 1mg, MedPlus"
+Simvastatin,Simvotin,Simvastatin,Tablet,500mg,252.39,56.03,1mg
+Paracetamol,P-500,Paracetamol,Tablet,50mg,257.29,144.65,MedPlus
+Ibuprofen,Brufen,Ibuprofen,Capsule,250mg,86.07,44.5,Apollo
+Levothyroxine,Thyrox,Levothyroxine,Tablet,50mg,124.87,49.07,"Apollo, 1mg"
+Amoxicillin,Amoxil,Amoxicillin,Syrup,50mg,232.13,97.71,"1mg, Apollo, NetMeds"
+Paracetamol,Calpol,Paracetamol,Tablet,500mg,74.87,28.22,"MedPlus, 1mg"
+Simvastatin,Zocor,Simvastatin,Capsule,100mg,189.91,63.76,"NetMeds, Pharmeasy, 1mg"
+Levothyroxine,Eltroxin,Levothyroxine,Syrup,250mg,102.23,56.48,"NetMeds, 1mg"
+Amoxicillin,Almox,Amoxicillin,Tablet,50mg,227.17,83.17,"Pharmeasy, NetMeds"
+Paracetamol,Calpol,Paracetamol,Tablet,10mg,111.85,41.98,"Apollo, Pharmeasy, NetMeds"
+Simvastatin,Zocor,Simvastatin,Syrup,100mg,225.06,79.44,Apollo
+Metformin,Glycomet,Metformin,Tablet,100mg,110.33,40.8,"MedPlus, 1mg"
+Losartan,Cozaar,Losartan,Syrup,100mg,200.9,44.25,"Pharmeasy, Apollo"
+Paracetamol,P-500,Paracetamol,Syrup,100mg,222.11,52.61,"Pharmeasy, 1mg, Apollo"
+Atorvastatin,Atorlip,Atorvastatin,Tablet,20mg,189.31,46.67,"Apollo, MedPlus, Pharmeasy"
+Ibuprofen,Brufen,Ibuprofen,Capsule,50mg,55.49,32.61,"Pharmeasy, NetMeds"
+Paracetamol,Calpol,Paracetamol,Syrup,250mg,138.87,69.4,"NetMeds, Pharmeasy, 1mg"
+Amlodipine,Amcard,Amlodipine,Syrup,500mg,228.92,82.65,MedPlus
+Levothyroxine,Eltroxin,Levothyroxine,Capsule,50mg,101.01,54.08,NetMeds
+Omeprazole,Omep,Omeprazole,Capsule,10mg,125.44,35.08,1mg
+Paracetamol,Calpol,Paracetamol,Capsule,10mg,176.44,83.9,"Pharmeasy, NetMeds, 1mg"
+Ibuprofen,Brufen,Ibuprofen,Tablet,50mg,120.9,42.13,"Pharmeasy, MedPlus"
+Ibuprofen,Advil,Ibuprofen,Capsule,500mg,222.35,98.1,Apollo
+Atorvastatin,Lipitor,Atorvastatin,Syrup,250mg,218.76,50.52,"1mg, Apollo"
